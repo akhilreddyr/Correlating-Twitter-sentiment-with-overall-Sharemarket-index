@@ -1,0 +1,1 @@
+# Correlating-Twitter-sentiment-with-overall-Sharemarket-index
